@@ -1,0 +1,38 @@
+name: greenacresmf2help
+version: 1.5
+main: calm.frenetic.ga.MainHelp
+author: Frenetic_Calm
+
+commands:
+  help:
+    description: Help Command.
+  donate:
+    description: Help Command.
+  help2:
+    description: Help Command.
+  admins:
+    description: Help Command.
+  realms:
+    description: Help Command.
+  banned:
+    description: Help Command.
+  banned2:
+    description: Help Command.
+  banned3:
+    description: Help Command.
+  helpgp:
+    description: Help Command.
+  helpgp2:
+    description: Help Command.
+  helpgp3:
+    description: Help Command.
+  helphomes:
+    description: Help Command.
+  helptcon:
+    description: Help Command.
+  helpfood:
+    description: Help Command.
+  vote:
+    description: Help Command.
+  vote2:
+    description: Help Command.
